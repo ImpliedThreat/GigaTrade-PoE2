@@ -15,35 +15,20 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-GigaTrade is a very basic trade message monitor for Path of Exile 2, it works by reading the games client.log text file for any new trade whispers received in-game and then alerting the user to ensure potential trades are not missed while tabbed out or AFK.
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+GigaTrade is a Python script for monitoring trade messages in Path of Exile 2; it works by reading the game's 'Client.txt' text file for any new trade whispers received in-game and then alerting the user to ensure potential trades are not missed while tabbed out or AFK.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Python
 
 ### Installation
 
-1. Download the latest release at [https://example.com](https://example.com)
-2. Edit the 'settings.ini' file to include your Discord webhook URL and change the 'use_discord' option to 1 if you would like notifications via Discord.
-3. Run the included 'setup.bat' file to install the required Python libraries.
-4. Run the 'run.bat' file to launch the script.
-5. With your game running, keep the console window open to watch for new trade messages.
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. Download the latest release from [Latest Releases]([https://example.com](https://github.com/ImpliedThreat/GigaTrade-PoE2/releases))
+2. Edit the 'settings.ini' file to include your Discord webhook URL and change the 'use_discord' option to 1 if you want to receive notifications via Discord.
+3. Edit the 'settings.ini' file to include your 'Client.txt' file path, this is located in your Path of Exile 2 installation directory.
+4. Run the included 'setup.bat' file to install the required Python libraries.
+5. Run the 'run.bat' file to launch the script.
+6. With your game running, keep the console window open to watch for new trade messages.
 
 <!-- CONTRIBUTING -->
 ## Contributing
