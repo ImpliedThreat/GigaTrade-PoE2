@@ -1,0 +1,6 @@
+pygame
+discord_webhook
+ntfy
+configparser
+pydirectinput
+pywinauto
