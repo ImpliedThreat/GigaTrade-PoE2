@@ -13,8 +13,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 GigaTrade is a Python script for monitoring trade messages in Path of Exile 2; it works by reading the game's 'Client.txt' text file for any new trade whispers received in-game and then alerting the user to ensure potential trades are not missed while tabbed out or AFK.
 
 ### Prerequisites
@@ -28,7 +26,7 @@ GigaTrade is a Python script for monitoring trade messages in Path of Exile 2; i
 3. Edit the 'settings.ini' file to include your 'Client.txt' file path, this is located in your Path of Exile 2 installation directory.
 4. Run the included 'setup.bat' file to install the required Python libraries.
 5. Run the 'run.bat' file to launch the script.
-6. With your game running, keep the console window open to watch for new trade messages.
+6. With your game running, keep the console window open to listen for new trade messages.
 
 <!-- CONTRIBUTING -->
 ## Contributing
