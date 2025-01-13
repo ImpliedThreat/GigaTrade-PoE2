@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ImpliedThreat/GigaTrade-PoE2">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/gigavaal.png" alt="Logo" width="150" height="128">
   </a>
 
 <h3 align="center">GigaTrade PoE2</h3>
