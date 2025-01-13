@@ -17,17 +17,6 @@
 
 GigaTrade is a very basic trade message monitor for Path of Exile 2, it works by reading the games client.log text file for any new trade whispers received in-game and then alerting the user to ensure potential trades are not missed while tabbed out or AFK.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Python][Python.org]][https://www.python.org/]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -48,9 +37,6 @@ This is an example of how to list things you need to use the software and how to
 4. Run the 'run.bat' file to launch the script.
 5. With your game running, keep the console window open to watch for new trade messages.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -58,9 +44,6 @@ This is an example of how to list things you need to use the software and how to
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
