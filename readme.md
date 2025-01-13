@@ -23,7 +23,7 @@ GigaTrade is a Python script for monitoring trade messages in Path of Exile 2; i
 
 ### Installation
 
-1. Download the latest release from [Latest Releases]([https://example.com](https://github.com/ImpliedThreat/GigaTrade-PoE2/releases))
+1. Download the latest release from [Latest Releases](https://github.com/ImpliedThreat/GigaTrade-PoE2/releases)
 2. Edit the 'settings.ini' file to include your Discord webhook URL and change the 'use_discord' option to 1 if you want to receive notifications via Discord.
 3. Edit the 'settings.ini' file to include your 'Client.txt' file path, this is located in your Path of Exile 2 installation directory.
 4. Run the included 'setup.bat' file to install the required Python libraries.
