@@ -69,9 +69,10 @@ def read_log(filename):
                             try:
                                 webhook.add_embed(embed)
                                 response = webhook.execute(remove_embeds=True)
-                                window.set_focus()
+                                #window.set_focus()
                             except:
-                                print(response)
+                                if (response.status_code != 200):
+                                    print(response)
 
                         pygame.mixer.music.play()
                 
